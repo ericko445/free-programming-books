@@ -54,7 +54,9 @@
 * [C - All you need to know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVASsjyqiNzgjUWHbDkN2Scy) - Stack Learner
 * [C Programming Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz) - Anisul Islam
 * [C Programming Bangla Tutorial](https://youtube.com/playlist?list=PLdl6zXgLsy3zwNjSMiYlOZOr20sykTfgo) - Bangla Coding Tutor
+* [C Programming Bangla Tutorial For Beginners 2023](https://youtube.com/playlist?list=PLNMnAEqLBwmrwDSycdTLsvZBhmK5kOtgV) - Hablu Programmer
 * [Pattern Printing in C](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oTxQhx2kejYmQn6qtRULCD) - Anisul Islam
+* [C Programming in Bangla - from Zero to Hero](https://www.udemy.com/course/c-programming-in-bangla/) - Ministry of Codes (MoC), Prapty Rahman
 
 
 ### <a id="csharp"></a>C\#
@@ -85,6 +87,7 @@ Shikkhangon BD
 
 ### Docker
 
+* [Docker Tutorial](https://www.youtube.com/playlist?list=PLSNRR4BKcowAuPUEja_ZZUE5Szn1rx90f) - Procoder BD
 * [Docker Tutorial Course](https://www.youtube.com/playlist?list=PLEYpvDF6qy8Yo9SpzhniLCjgRIxCpo2ku) - Foyzul Karim
 
 
@@ -119,6 +122,7 @@ Shikkhangon BD
 * [HTML Complete Course in Bangla 2021(Beginner to Advanced)](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oHBr5dsumGwjUxByN5Lnw3) - Anisul Islam
 * [HTML Tutorial in Bangla](https://w3programmers.com/bangla/html-basics/) - w3programmers
 * [HTML Bangla Tutorial](https://www.youtube.com/playlist?list=PLm64fbD5OnxuObyOVSxcM0TUcBLDF2w64) - Moshiur
+* [HTML5 \| HTML Tutorial For Beginners](https://www.youtube.com/playlist?list=PLNMnAEqLBwmo2aAHG1hT41QCgYV3366gp) - Hablu Programmer
 
 
 #### Bootstrap
@@ -145,8 +149,8 @@ Shikkhangon BD
 * [Java Basic Syntax Bangla Tutorial](https://www.youtube.com/playlist?list=PLdl6zXgLsy3xCae1uL6rJ8Ay9sIiyBy5I) - Bangla Coding Tutor
 * [Java Course! Full Course Bangla](https://www.youtube.com/playlist?list=PLysy6TYSMvpJmMN0ElbC936RmmFustDiy) - Online Course
 * [Java Swing Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rAHKr6IteF5kdgN6BorH9l) - Anisul Islam
-* [জাভা এন্টারপ্রাইজ এডিশন](https://dimikcomputing.com/course/javaee-online-course/) - দ্বিমিক কম্পিউটিং
 * [Java Bangla (বাংলা) tutorial for beginners](https://youtube.com/playlist?list=PL82MewGFQkx1jjozz7I98Yjanw8n6p9HP) - Time & Training
+* [জাভা এন্টারপ্রাইজ এডিশন](https://dimikcomputing.com/course/javaee-online-course/) - দ্বিমিক কম্পিউটিং
 
 
 ### JavaScript
@@ -158,8 +162,10 @@ Shikkhangon BD
 * [JavaScript Bangla Tutorial Course 2021](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qzryglMjcyEktz4q7ySunX) - Anisul Islam
 * [JavaScript Behind The Scene Bangla Tutorial](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDPaOrWvTIuhb5GRoJVWiE2) - Stack Learner
 * [JavaScript Full Playlist With Order](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAJTV_1ZXwB1XIiFkK0ddZA) - Stack Learner
-* [Make Fun of JavaScript Array](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDr08QgQHljCecWtA4jBLnS) - Stack Learner
 * [JS Bangla Tutorial Series for Beginners](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy) - Sumit Saha (Learn with Sumit)
+* [JavaScript Tutorial For Beginners](https://www.youtube.com/playlist?list=PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW) - Hablu Programmer
+* [Make Fun of JavaScript Array](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDr08QgQHljCecWtA4jBLnS) - Stack Learner
+* [Modern JavaScript Bangla Tutorials](https://www.youtube.com/playlist?list=PL4iFnndHlduhY_C69D8XSVqG7IOdbzmfb) - JS Bangladesh
 * [Modern JavaScript ES6 Bangla Tutorial](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG) - Sumit Saha (Learn with Sumit)
 * [Play with DOM - Bangla](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MJDxMOzhYVuTrO1b5n-Tq_) - Sumit Saha (Learn with Sumit)
 
@@ -194,9 +200,10 @@ Shikkhangon BD
 #### React
 
 * [React - Redux Complete Course](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAvcGzTEAyPSOqgUQA08rNB) - Stack Learner
+* [React JS Tutorial Bangla Series for Beginners](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr) - Sumit Saha (Learn with Sumit)
+* [React JS Bangla Tutorial \| React Tutorial For Beginners](https://www.youtube.com/playlist?list=PLNMnAEqLBwmqvuLEb5fVyGfcdMMlrEsHL) - Hablu Programmer
 * [Understand ReactJS Advanced Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBaeF3qUyvr2AxoXGwDd5cx) - Stack Learner
 * [Understand ReactJS Core Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBANld2gDEE6_0G886zavUs) - Stack Learner
-* [React JS Tutorial Bangla Series for Beginners](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr) - Sumit Saha (Learn with Sumit)
 
 
 #### Svelte
@@ -233,6 +240,7 @@ Shikkhangon BD
 
 * [PHP All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCFLIrGA1GaxacvPTDQcsMV) - Stack Learner
 * [php bangla tutorial for beginners \| php8 bangla tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqBfSoiU5TG7FF4FQmCpoSp) - Learn Hunter
+* [PHP OOP Bangla Tutorial \| Object Oriented Programming Bangla Tutorial](https://www.youtube.com/playlist?list=PLJC7GfA2DHaAFmx7JppHrrFfsCNLeKn9G) - Technology Village
 
 
 #### Laravel
@@ -254,6 +262,7 @@ Shikkhangon BD
 * [Python All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCH8fRfZ8sUuKEQQYIFMjtJ) - Stack Learner
 * [Python Bangla Tutorials for Beginners](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN) - Anisul Islam
 * [Python tutorials by Zulkarnine](https://www.youtube.com/playlist?list=PLV3rqOvr9vgkW7U-kdxtUBx74ICpw94k8) - Zulkarnine Mahmud
+* [Python Bangla Tutorial 2023](https://www.youtube.com/playlist?list=PLNMnAEqLBwmpR8JDBOEl0jrzmH1vPnO7v) - Hablu Programmer
 
 
 #### Django
@@ -301,4 +310,5 @@ Shikkhangon BD
 * [WordPress Customization Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMno7NzhTgGhoZtRjLiHUo8m4) - Learn Hunter
 * [Wordpress Bangla Tutorial Course for beginner to advanced level](https://www.youtube.com/playlist?list=PLeCz-UdZ0uzQVPdQN-mWnz8896BdYMqAf) - Freelancer Mannan
 * [WordPress Theme Development Tutorial Bangla ](https://www.youtube.com/playlist?list=PLSNRR4BKcowD6A-U_ll9ayJWqOEz3XD8l) - Procoder BD
+* [WordPress Plugin Development](https://www.youtube.com/playlist?list=PLSNRR4BKcowCkeAxfdtTsLqwR0LJYwDaz) - Procoder BD
 

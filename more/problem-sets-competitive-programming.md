@@ -3,13 +3,14 @@
 * [Competitive Programming](#competitive-programming)
 * [CTF Capture the Flag](#capture-the-flag)
 * [Data science](#data-science)
+* [HTML and CSS](#html-and-css)
 * [Information security](#information-security)
 * [Problem Sets](#problem-sets)
 
 
 ### Competitive Programming
 
-* [4Clojure](http://www.4clojure.com)
+* [A Way to Practice Competitive Programming](https://github.com/E869120/Competitive-Programming/blob/master/%5BTutorial%5D%20A%20Way%20to%20Practice%20Competitive%20Programming.pdf) - Masataka Yoneda (PDF)
 * [A2 Online Judge](https://a2oj.netlify.app)
 * [Algorithms for Competitive Programming](https://cp-algorithms.com)
 * [APL Problem Solving Competition](https://contest.dyalog.com)
@@ -75,6 +76,11 @@
 * [Kaggle](https://www.kaggle.com)
 
 
+### HTML and CSS
+
+* [Frontend Mentor](https://www.frontendmentor.io/challenges?languages=CSS&sort=difficulty%7Casc&type=free) *(email address requested)*
+
+
 ### Information security
 
 * [ångstromCTF](https://angstromctf.com)
@@ -108,6 +114,7 @@
 * [Edabit](https://edabit.com)
 * [Exercism](http://exercism.io)
 * [Geeks For Geeks](https://practice.geeksforgeeks.org)
+* [Grind 75](https://www.techinterviewhandbook.org/grind75)
 * [Hacker.org](http://www.hacker.org)
 * [HackerEarth](https://www.hackerearth.com)
 * [HDU Online Judge](http://acm.hdu.edu.cn)
@@ -133,3 +140,4 @@
 * [UVa Online Judge](https://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge)
 * [Vulnhub.com](https://www.vulnhub.com)
 * [Школа программиста](https://acmp.ru)
+
